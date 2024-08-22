@@ -20,5 +20,4 @@ summary(cars)
 ```{r pressure, echo=FALSE}
 plot(pressure)
 ```
-git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
+
